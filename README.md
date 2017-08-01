@@ -1,4 +1,4 @@
-# Memory Game
+# Squares 2
 This is a Squares 2 written in `Java Processing 2.2.1`<br/>
 I made this game similar to [Squares 2 by Gavin Shapiro](http://www.albinoblacksheep.com/games/squares2)
 
