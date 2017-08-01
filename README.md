@@ -2,15 +2,15 @@
 This is a Squares 2 game written in `Java Processing 2.2.1`<br/>
 I made this game similar to [Squares 2 by Gavin Shapiro](http://www.albinoblacksheep.com/games/squares2)
 
-
+##Snaphots
 It contains three screens with background `Music`:<br/>
-1. Main Screen:<br/><br/>
+* Main Screen:<br/><br/>
   It has two options `Play`, and `Help`.<br/><br/>
   ![Main Screen](https://github.com/Muhammadwasi/Squares-2/blob/master/data/Main%20Menu.PNG)
-1. Game Mode Screen:<br/>
+* Game Mode Screen:<br/>
   It has `Squares Counter`, and `High Score` keeper.<br/><br/>
   ![Game Mode](https://github.com/Muhammadwasi/Squares-2/blob/master/data/Game%20Mode.PNG)
-1. Game Over and Help Screen:<br/><br />
+* Game Over and Help Screen:<br/><br />
   ![Help Screen](https://github.com/Muhammadwasi/Squares-2/blob/master/data/Help.PNG)
   ![Game Over Screen](https://github.com/Muhammadwasi/Squares-2/blob/master/data/Game%20Over.PNG)
 ## Game Rules:
@@ -20,3 +20,5 @@ It contains three screens with background `Music`:<br/>
 1. Touch black circles; it will increase score by 1000 and decrease speed.
 ## How to play?
 In order to play this game, you have to install Processing version 2. It will give errors in `Processing 3` because some music libraries have been removed in version 3. In order to run it on `Processing v3`, remove the `minim` library.
+## Executable File:
+It is not uploaded here. But, I can provide it.
