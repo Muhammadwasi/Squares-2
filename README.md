@@ -2,7 +2,7 @@
 This is a Squares 2 game written in `Java Processing 2.2.1`<br/>
 I made this game similar to [Squares 2 by Gavin Shapiro](http://www.albinoblacksheep.com/games/squares2)
 
-##Snaphots
+## Snaphots:
 It contains three screens with background `Music`:<br/>
 * Main Screen:<br/><br/>
   It has two options `Play`, and `Help`.<br/><br/>
